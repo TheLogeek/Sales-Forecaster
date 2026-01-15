@@ -57,7 +57,7 @@ if uploaded_file:
         steps = 6
         forecast = model.forecast(steps)
         forecast.index = pd.date_range(
-            start=df.index[-1] + pd.offsets.MonthEnd(1),
+            start=df.index[-1] + pd.DateOffset(months=1),
             periods=steps,
             freq="M"
         )
