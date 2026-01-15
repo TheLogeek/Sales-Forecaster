@@ -45,7 +45,7 @@ If you wish to run this project locally, follow these steps:
 ## 📊 How to Use
 
 1.  Prepare a CSV file with two columns: `Date` (YYYY-MM-DD) and `Sales` (Numeric).
-2.  Upload the file via the sidebar/uploader.
+2.  Upload the file via the uploader.
 3.  The app will automatically clean the data, visualize your history, and generate a 6-month projection.
 
 ## 📈 Why This Matters for Business
