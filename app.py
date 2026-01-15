@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from statsmodels.tsa.holtwinters import ExponentialSmoothing
 
-st.set_page_config(page_title="Sales Forecaster Pro", layout="wide")
+st.set_page_config(page_title="Sales Forecaster", layout="wide")
 
 st.title("📊 AI Sales Forecaster & Analytics")
 st.write("Upload your sales data to generate instant forecasts and detect anomalies.")
