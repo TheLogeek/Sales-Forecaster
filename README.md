@@ -1,7 +1,7 @@
 
-# 📊 Sales Forecaster Pro: AI-Driven Business Insights
+# 📊 Sales Forecaster: AI-Driven Business Insights
 
-**Sales Forecaster Pro** is a professional-grade Data Science web application designed to help business owners and managers turn historical sales data into future growth strategies. Built with **Python**, **Streamlit**, and **Statsmodels**, it uses the **Holt-Winters Exponential Smoothing** algorithm to provide accurate, seasonal-aware revenue projections.
+**Sales Forecaster** is a professional-grade Data Science web application designed to help business owners and managers turn historical sales data into future growth strategies. Built with **Python**, **Streamlit**, and **Statsmodels**, it uses the **Holt-Winters Exponential Smoothing** algorithm to provide accurate, seasonal-aware revenue projections.
 
 ## 🚀 Key Features
 
