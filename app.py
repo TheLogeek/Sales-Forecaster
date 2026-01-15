@@ -4,14 +4,14 @@ import numpy as np
 import matplotlib.pyplot as plt
 from statsmodels.tsa.holtwinters import ExponentialSmoothing
 
+st.set_page_config(page_title="Sales Forecaster", layout="wide")
+
 st.markdown("""
     <style>
     .main { background-color: #f5f7f9; }
     .stMetric { background-color: #ffffff; padding: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
     </style>
-    """, unsafe_allow_headers=True)
-
-st.set_page_config(page_title="Sales Forecaster", layout="wide")
+    """, unsafe_allow_html=True)
 
 st.title("📊 AI Sales Forecaster & Analytics")
 st.write("Upload your sales data to generate instant forecasts and detect anomalies.")
