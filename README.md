@@ -1,7 +1,7 @@
 
 # 📊 Sales Forecaster: AI-Driven Business Insights
 
-[View Live demo](https://sales-forecaster-pro.streamlit.app)
+[View Live demo](https://sales-forecaster-ml.streamlit.app)
 
 
 **Sales Forecaster** is a professional-grade Data Science web application designed to help business owners and managers turn historical sales data into future growth strategies. Built with **Python**, **Streamlit**, and **Statsmodels**, it uses the **Holt-Winters Exponential Smoothing** algorithm to provide accurate, seasonal-aware revenue projections.
